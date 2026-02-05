@@ -106,9 +106,9 @@ plt.title("Profit ofit Prediction")
 ```
 
 ## Output:
-"C:\Users\acer\Documents\Project Backups\ex 3 ml.pdf"
+![ex 4 2 ml](https://github.com/user-attachments/assets/6a8a8e3a-bc93-4d91-8824-348ddce38cca)
 
-
+![EX 4 1](https://github.com/user-attachments/assets/6508db94-3400-4c63-b164-200b64614307)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
